@@ -2,6 +2,6 @@
   "version": "0.1.0",
   "notes": "First public release.",
   "url": "https://github.com/mmnt-writing/mmnt-releases/releases/latest",
-  "macos_url": null,
+  "macos_url": "https://github.com/mmnt-writing/mmnt-releases/releases/download/v0.1.0/mmnt-0.1.0.dmg",
   "windows_url": null
 }
